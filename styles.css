@@ -1,0 +1,25 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: auto;
+    padding: 2em;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+.row{
+    padding: 1rem;
+}
+
+.barra{
+    background-color: rgb(243, 20, 8);
+}
+
+.cajaBorde{
+    border-style: solid;
+    border-color:  rgb(243, 20, 8);
+    height: 30vh;
+}
+
